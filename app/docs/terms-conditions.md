@@ -17,7 +17,7 @@ You must be at least 16 years old, or the minimum legal age in your country, to 
 You retain ownership of the content you create and post, but you grant Talkwave a **non-exclusive, worldwide, royalty-free license** to display, store, and transmit your content within the App.  
 
 ## 4. Privacy  
-Your privacy is important to us. Please review our [Privacy Policy](https://www.talkwave.fun/app/docs/#/privacy-policy/) to understand how we collect, use, and protect your information.  
+Your privacy is important to us. Please review our [Privacy Policy](https://www.talkwave.fun/app/docs/#/privacy-policy) to understand how we collect, use, and protect your information.  
 
 ## 5. Modifications and Termination  
 - We may modify or discontinue the App or any part of it at any time, with or without notice.  
