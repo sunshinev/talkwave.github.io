@@ -14,7 +14,11 @@
     window.$docsify = {
       loadSidebar: true,
       name: '',
-      repo: ''
+      repo: '',
+      alias: {
+        // 强制指定 _sidebar.md 的路径
+        '_sidebar.md': '/app/docs/_sidebar.md'
+      }
     }
   </script>
   <!-- Docsify v4 -->
