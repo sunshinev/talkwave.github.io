@@ -7,11 +7,20 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <style>
+     /* 限制内容区域的最大宽度 */
+     .markdown-section {
+      max-width: 90%; /* 按需调整 */
+      margin: 0 auto;   /* 居中显示 */
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
+      themeColor: "#6D31ED",
+      auto2top: true,
       loadSidebar: true,
       name: '',
       repo: '',
