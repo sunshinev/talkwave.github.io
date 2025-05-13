@@ -6,5 +6,9 @@
   - [Terms and Conditions](terms-conditions.md)
   - [Privacy Policy](privacy-policy.md)
 
+- Other
+  - [Discard](https://discord.gg/YneaES5S)
+  - [Reddit](https://www.reddit.com/r/TalkWave/)
+
 
 - [Changelog](changelog.md)
