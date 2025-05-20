@@ -1,10 +1,6 @@
-# TalkWave FAQ
+# FAQ
 
 <div class="support-container">
-<iframe src="/app/docs/#/faq" class="faq-frame"></iframe>
-
-### Contact 
-
 <div class="button-group">
 
 > Need direct assistance? Our support team responds within 24 hours to all inquiries about account issues, troubleshooting, or general questions.
@@ -24,7 +20,7 @@
   </a>
 </div>
 
-
+<iframe src="/app/docs/#/faq" class="faq-frame"></iframe>
 </div>
 
 <style>
