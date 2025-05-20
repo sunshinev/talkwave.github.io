@@ -11,4 +11,6 @@
   - [Reddit](https://www.reddit.com/r/TalkWave/)
 
 
+- [Support](support.md)
+- [FAQ](faq.md)
 - [Changelog](changelog.md)
