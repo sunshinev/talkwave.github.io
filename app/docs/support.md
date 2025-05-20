@@ -24,7 +24,7 @@
 </div>
 
 ### FAQ
-<iframe src="/#/faq" class="faq-frame"></iframe>
+<iframe src="/app/docs/#/faq" class="faq-frame"></iframe>
 
 </div>
 
