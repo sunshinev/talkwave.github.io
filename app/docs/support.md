@@ -1,6 +1,7 @@
 # TalkWave FAQ
 
 <div class="support-container">
+<iframe src="/app/docs/#/faq" class="faq-frame"></iframe>
 
 ### Contact 
 
@@ -23,8 +24,6 @@
   </a>
 </div>
 
-### FAQ
-<iframe src="/app/docs/#/faq" class="faq-frame"></iframe>
 
 </div>
 
